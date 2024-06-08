@@ -1,0 +1,5 @@
+IT/Cyber Model ,Before Grouping,,After Grouping ,
+Detection,Actual,Prediction,Actual,Prediction
+Normal,1673,1673,27,32
+Attack,987,987,93,88
+Total,2660,2660,120,120

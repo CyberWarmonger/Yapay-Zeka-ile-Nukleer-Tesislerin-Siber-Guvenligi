@@ -1,0 +1,121 @@
+Minute,Second,Network_output,PLC_output,Process_output,Network_Probability_0,Network_Probability_1,PLC_Probability_0,PLC_Probability_1,Process_Probability_0,Process_Probability_1,Attack_Type
+31,0,1,0,0,0.302325581,0.697674419,1,0,1,0,IT attacks
+31,1,1,0,0,0.341463415,0.658536585,1,0,1,0,IT attacks
+31,2,1,0,0,0.317073171,0.682926829,1,0,1,0,IT attacks
+31,3,1,0,0,0.469387755,0.530612245,1,0,1,0,IT attacks
+31,4,1,0,0,0.333333333,0.666666667,1,0,1,0,IT attacks
+31,5,1,0,0,0.35,0.65,1,0,1,0,IT attacks
+31,6,1,0,0,0.285714286,0.714285714,1,0,1,0,IT attacks
+31,7,1,0,0,0.317073171,0.682926829,1,0,1,0,IT attacks
+31,8,1,0,0,0.315789474,0.684210526,1,0,1,0,IT attacks
+31,9,1,0,0,0.275,0.725,1,0,1,0,IT attacks
+31,10,1,0,0,0.363636364,0.636363636,1,0,1,0,IT attacks
+31,11,1,0,0,0.433962264,0.566037736,1,0,1,0,IT attacks
+31,12,1,0,0,0.272727273,0.727272727,1,0,1,0,IT attacks
+31,13,1,0,0,0.285714286,0.714285714,1,0,1,0,IT attacks
+31,14,1,0,0,0.325581395,0.674418605,1,0,1,0,IT attacks
+31,15,1,0,0,0.46875,0.53125,1,0,1,0,IT attacks
+31,16,1,1,0,0.705882353,0.294117647,0.726666667,0.273333333,1,0,ICS attacks
+31,17,1,1,0,0.722222222,0.277777778,0,1,1,0,ICS attacks
+31,18,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,19,1,1,0,0.647058824,0.352941176,0,1,1,0,ICS attacks
+31,20,1,1,0,0.727272727,0.272727273,0,1,1,0,ICS attacks
+31,21,1,1,0,0.821428571,0.178571429,0,1,1,0,ICS attacks
+31,22,1,1,0,0.666666667,0.333333333,0,1,1,0,ICS attacks
+31,23,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,24,1,1,0,0.722222222,0.277777778,0,1,1,0,ICS attacks
+31,25,1,1,0,0.761904762,0.238095238,0,1,1,0,ICS attacks
+31,26,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,27,1,1,0,0.722222222,0.277777778,0,1,1,0,ICS attacks
+31,28,1,1,0,0.631578947,0.368421053,0,1,1,0,ICS attacks
+31,29,1,1,0,0.6875,0.3125,0,1,1,0,ICS attacks
+31,30,1,1,0,0.714285714,0.285714286,0,1,1,0,ICS attacks
+31,31,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,32,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,33,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,34,1,1,0,0.821428571,0.178571429,0,1,1,0,ICS attacks
+31,35,1,1,0,0.75,0.25,0,1,1,0,ICS attacks
+31,36,1,1,0,0.565217391,0.434782609,0,1,1,0,ICS attacks
+31,37,1,1,0,0.722222222,0.277777778,0,1,1,0,ICS attacks
+31,38,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,39,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,40,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,41,1,1,0,0.722222222,0.277777778,0,1,1,0,ICS attacks
+31,42,1,1,0,0.722222222,0.277777778,0,1,1,0,ICS attacks
+31,43,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,44,1,1,0,0.65,0.35,0,1,1,0,ICS attacks
+31,45,1,1,0,0.75,0.25,0,1,1,0,ICS attacks
+31,46,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,47,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,48,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+31,49,1,1,0,0.6875,0.3125,0,1,1,0,ICS attacks
+31,50,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,51,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,52,1,1,0,0.65,0.35,0,1,1,0,ICS attacks
+31,53,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,54,1,1,0,0.736842105,0.263157895,0,1,1,0,ICS attacks
+31,55,1,1,0,0.714285714,0.285714286,0,1,1,0,ICS attacks
+31,56,1,1,1,0.461538462,0.538461538,0,1,0.5,0.5,NPP attacks causing both ICS faults process faults
+31,57,1,1,1,0.590909091,0.409090909,0,1,0,1,NPP attacks causing both ICS faults process faults
+31,58,1,1,1,0.625,0.375,0,1,0,1,NPP attacks causing both ICS faults process faults
+31,59,1,1,1,0.55,0.45,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,0,1,1,1,0.576923077,0.423076923,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,1,1,1,1,0.71875,0.28125,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,2,1,1,1,0.571428571,0.428571429,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,3,1,1,1,0.523809524,0.476190476,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,4,1,1,1,0.608695652,0.391304348,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,5,1,1,1,0.576923077,0.423076923,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,6,1,1,1,0.590909091,0.409090909,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,7,1,1,1,0.608695652,0.391304348,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,8,1,1,1,0.676470588,0.323529412,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,9,1,1,1,0.571428571,0.428571429,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,10,1,1,1,0.608695652,0.391304348,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,11,1,1,1,0.590909091,0.409090909,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,12,1,1,1,0.55,0.45,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,13,1,1,1,0.571428571,0.428571429,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,14,1,1,1,0.590909091,0.409090909,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,15,1,1,1,0.541666667,0.458333333,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,16,1,1,1,0.576923077,0.423076923,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,17,1,1,1,0.590909091,0.409090909,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,18,1,1,1,0.736842105,0.263157895,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,19,1,1,1,0.571428571,0.428571429,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,20,1,1,1,0.55,0.45,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,21,1,1,1,0.653846154,0.346153846,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,22,1,1,1,0.571428571,0.428571429,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,23,1,1,1,0.709677419,0.290322581,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,24,1,1,1,0.541666667,0.458333333,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,25,1,1,1,0.709677419,0.290322581,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,26,1,1,1,0.64,0.36,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,27,1,1,1,0.590909091,0.409090909,0,1,0,1,NPP attacks causing both ICS faults process faults
+32,28,1,1,1,0.6875,0.3125,0,1,0.5,0.5,NPP attacks causing both ICS faults process faults
+32,29,1,1,0,0.705882353,0.294117647,0,1,1,0,ICS attacks
+32,30,0,0,0,1,0,0,1,1,0,Normal
+32,31,0,0,0,1,0,0.129251701,0.870748299,1,0,Normal
+32,32,0,0,0,0.866666667,0.133333333,1,0,1,0,Normal
+32,33,0,0,0,1,0,1,0,1,0,Normal
+32,34,0,0,0,1,0,1,0,1,0,Normal
+32,35,0,0,0,1,0,1,0,1,0,Normal
+32,36,0,0,0,0.962962963,0.037037037,1,0,1,0,Normal
+32,37,0,0,0,1,0,1,0,1,0,Normal
+32,38,0,0,0,1,0,1,0,1,0,Normal
+32,39,0,0,0,1,0,1,0,1,0,Normal
+32,40,0,0,0,0.846153846,0.153846154,1,0,1,0,Normal
+32,41,0,0,0,1,0,1,0,1,0,Normal
+32,42,0,0,0,1,0,1,0,1,0,Normal
+32,43,1,0,0,0.8125,0.1875,1,0,1,0,IT attacks
+32,44,0,0,0,1,0,1,0,1,0,Normal
+32,45,0,0,0,1,0,1,0,1,0,Normal
+32,46,0,0,0,1,0,1,0,1,0,Normal
+32,47,0,0,0,1,0,1,0,1,0,Normal
+32,48,1,0,0,0.866666667,0.133333333,1,0,1,0,IT attacks
+32,49,0,0,0,1,0,1,0,1,0,Normal
+32,50,0,0,0,1,0,1,0,1,0,Normal
+32,51,0,0,0,1,0,1,0,1,0,Normal
+32,52,0,0,0,1,0,1,0,1,0,Normal
+32,53,0,0,0,1,0,1,0,1,0,Normal
+32,54,0,0,0,1,0,1,0,1,0,Normal
+32,55,0,0,0,1,0,1,0,1,0,Normal
+32,56,0,0,0,0.9375,0.0625,1,0,1,0,Normal
+32,57,1,0,0,0.928571429,0.071428571,1,0,1,0,IT attacks
+32,58,0,0,0,1,0,1,0,1,0,Normal
+32,59,0,0,0,1,0,1,0,1,0,Normal

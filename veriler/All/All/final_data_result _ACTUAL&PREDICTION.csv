@@ -1,0 +1,121 @@
+Minute,Second,Network_output,PLC_output,Process_output,Network_Probability_0,Network_Probability_1,PLC_Probability_0,PLC_Probability_1,Process_Probability_0,Process_Probability_1,Attack_Type_Pred,Attack_Type_Actual,Result Anomaly,Result Classification,Result IT/ICS/Process
+31,0,1,0,0,0.302325581,0.697674419,0.926174497,0.073825503,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,1,1,0,0,0.341463415,0.658536585,0.929078014,0.070921986,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,2,1,0,0,0.317073171,0.682926829,0.946666667,0.053333333,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,3,1,0,0,0.469387755,0.530612245,0.910344828,0.089655172,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,4,1,0,0,0.333333333,0.666666667,0.889655172,0.110344828,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,5,1,0,0,0.35,0.65,1,0,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,6,1,0,0,0.285714286,0.714285714,0.893617021,0.106382979,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,7,1,0,0,0.317073171,0.682926829,0.923076923,0.076923077,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,8,1,0,0,0.315789474,0.684210526,0.925170068,0.074829932,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,9,1,0,0,0.275,0.725,0.966216216,0.033783784,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,10,1,0,0,0.363636364,0.636363636,0.93877551,0.06122449,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,11,1,0,0,0.433962264,0.566037736,0.958333333,0.041666667,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,12,1,0,0,0.272727273,0.727272727,0.891891892,0.108108108,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,13,1,0,0,0.285714286,0.714285714,0.95862069,0.04137931,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,14,1,0,0,0.325581395,0.674418605,0.9375,0.0625,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,15,1,0,0,0.46875,0.53125,0.905405405,0.094594595,1,0,IT attacks,IT attacks,Anomaly Detected,Anomaly Classified,IT Anomaly Classified
+31,16,1,1,0,0.705882353,0.294117647,0.68,0.32,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,17,1,1,0,0.722222222,0.277777778,0.06,0.94,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,18,1,1,0,0.736842105,0.263157895,0.06122449,0.93877551,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,19,1,1,0,0.647058824,0.352941176,0.062068966,0.937931034,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,20,1,1,0,0.727272727,0.272727273,0.06,0.94,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,21,0,1,0,0.821428571,0.178571429,0.059602649,0.940397351,1,0,ICS failures,ICS attacks,Anomaly Detected,False Alarm,False Alarm
+31,22,1,1,0,0.666666667,0.333333333,0.053333333,0.946666667,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,23,1,1,0,0.705882353,0.294117647,0.057553957,0.942446043,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,24,1,1,0,0.722222222,0.277777778,0.060402685,0.939597315,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,25,1,1,0,0.761904762,0.238095238,0.055944056,0.944055944,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,26,1,1,0,0.705882353,0.294117647,0.056338028,0.943661972,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,27,1,1,0,0.722222222,0.277777778,0.067567568,0.932432432,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,28,1,1,0,0.631578947,0.368421053,0.046357616,0.953642384,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,29,1,1,0,0.6875,0.3125,0.060402685,0.939597315,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,30,1,1,0,0.714285714,0.285714286,0.059602649,0.940397351,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,31,1,1,0,0.736842105,0.263157895,0.059602649,0.940397351,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,32,1,1,0,0.705882353,0.294117647,0.059210526,0.940789474,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,33,1,1,0,0.705882353,0.294117647,0.053333333,0.946666667,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,34,0,1,0,0.821428571,0.178571429,0.046357616,0.953642384,1,0,ICS failures,ICS attacks,Anomaly Detected,False Alarm,False Alarm
+31,35,1,1,0,0.75,0.25,0.06,0.94,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,36,1,1,0,0.565217391,0.434782609,0.059210526,0.940789474,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,37,1,1,0,0.722222222,0.277777778,0.046979866,0.953020134,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,38,1,1,0,0.736842105,0.263157895,0.046357616,0.953642384,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,39,1,1,0,0.705882353,0.294117647,0.053691275,0.946308725,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,40,1,1,0,0.736842105,0.263157895,0.059210526,0.940789474,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,41,1,1,0,0.722222222,0.277777778,0.059602649,0.940397351,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,42,1,1,0,0.722222222,0.277777778,0.059602649,0.940397351,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,43,1,1,0,0.705882353,0.294117647,0.052287582,0.947712418,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,44,1,1,0,0.65,0.35,0.052980132,0.947019868,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,45,1,1,0,0.75,0.25,0.054054054,0.945945946,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,46,1,1,0,0.705882353,0.294117647,0.045454545,0.954545455,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,47,1,1,0,0.736842105,0.263157895,0.059210526,0.940789474,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,48,1,1,0,0.705882353,0.294117647,0.06,0.94,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,49,1,1,0,0.6875,0.3125,0.060402685,0.939597315,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,50,1,1,0,0.736842105,0.263157895,0.058441558,0.941558442,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,51,1,1,0,0.736842105,0.263157895,0.059602649,0.940397351,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,52,1,1,0,0.65,0.35,0.059602649,0.940397351,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,53,1,1,0,0.736842105,0.263157895,0.052631579,0.947368421,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,54,1,1,0,0.736842105,0.263157895,0.059210526,0.940789474,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,55,1,1,0,0.714285714,0.285714286,0.060402685,0.939597315,1,0,ICS attacks,ICS attacks,Anomaly Detected,Anomaly Classified,ICS Anomaly Classified
+31,56,1,1,0,0.461538462,0.538461538,0.0625,0.9375,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+31,57,1,1,1,0.590909091,0.409090909,0.058823529,0.941176471,0.6,0.4,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+31,58,1,1,1,0.625,0.375,0.063829787,0.936170213,0.7,0.3,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+31,59,1,1,0,0.55,0.45,0.0625,0.9375,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,0,1,1,1,0.576923077,0.423076923,0.063829787,0.936170213,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,1,1,1,1,0.71875,0.28125,0.064748201,0.935251799,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,2,1,1,1,0.571428571,0.428571429,0.064748201,0.935251799,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,3,1,1,1,0.523809524,0.476190476,0.051094891,0.948905109,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,4,1,1,1,0.608695652,0.391304348,0.063380282,0.936619718,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,5,1,1,1,0.576923077,0.423076923,0.0625,0.9375,0.3,0.7,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,6,1,1,1,0.590909091,0.409090909,0.04137931,0.95862069,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,7,1,1,1,0.608695652,0.391304348,0.0625,0.9375,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,8,1,1,1,0.676470588,0.323529412,0.0625,0.9375,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,9,1,1,1,0.571428571,0.428571429,0.062937063,0.937062937,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,10,1,1,1,0.608695652,0.391304348,0.064285714,0.935714286,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,11,1,1,1,0.590909091,0.409090909,0.066176471,0.933823529,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,12,1,1,1,0.55,0.45,0.057142857,0.942857143,0.4,0.6,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,13,1,1,0,0.571428571,0.428571429,0.064285714,0.935714286,0.9,0.1,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,14,1,1,1,0.590909091,0.409090909,0.063829787,0.936170213,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,15,1,1,1,0.541666667,0.458333333,0.061643836,0.938356164,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,16,1,1,1,0.576923077,0.423076923,0.0625,0.9375,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,17,1,1,1,0.590909091,0.409090909,0.062937063,0.937062937,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,18,1,1,1,0.736842105,0.263157895,0.056737589,0.943262411,0.8,0.2,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,19,1,1,0,0.571428571,0.428571429,0.065217391,0.934782609,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,20,1,1,0,0.55,0.45,0.063829787,0.936170213,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,21,1,1,0,0.653846154,0.346153846,0.063380282,0.936619718,0.9,0.1,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,22,1,1,1,0.571428571,0.428571429,0.0625,0.9375,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,23,1,1,1,0.709677419,0.290322581,0.056737589,0.943262411,0,1,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,24,1,1,1,0.541666667,0.458333333,0.063380282,0.936619718,0.7,0.3,NPP attacks causing both ICS faults process faults,NPP attacks causing both ICS faults process faults,Anomaly Detected,Anomaly Classified,NPP Anomaly Classified
+32,25,1,1,0,0.709677419,0.290322581,0.062068966,0.937931034,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,26,1,1,0,0.64,0.36,0.063380282,0.936619718,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,27,1,1,0,0.590909091,0.409090909,0.048611111,0.951388889,1,0,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,28,1,1,0,0.6875,0.3125,0.063829787,0.936170213,0.9,0.1,ICS attacks,NPP attacks causing both ICS faults process faults,Anomaly Detected,False Alarm,False Alarm
+32,29,1,1,1,0.705882353,0.294117647,0.055172414,0.944827586,0,1,NPP attacks causing both ICS faults process faults,ICS attacks,Anomaly Detected,False Alarm,False Alarm
+32,30,0,1,1,1,0,0.0625,0.9375,0,1,ICS failures causing process faults,Normal,False Alarm,False Alarm,False Alarm
+32,31,0,1,1,1,0,0.163265306,0.836734694,0,1,ICS failures causing process faults,Normal,False Alarm,False Alarm,False Alarm
+32,32,0,0,1,0.866666667,0.133333333,0.931506849,0.068493151,0,1,Process Fault,Normal,False Alarm,False Alarm,False Alarm
+32,33,0,0,1,1,0,0.965034965,0.034965035,0.7,0.3,Process Fault,Normal,False Alarm,False Alarm,False Alarm
+32,34,0,0,0,1,0,0.907894737,0.092105263,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,35,0,0,0,1,0,0.95862069,0.04137931,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,36,0,0,0,0.962962963,0.037037037,0.960526316,0.039473684,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,37,0,0,0,1,0,0.961290323,0.038709677,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,38,0,0,0,1,0,0.92,0.08,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,39,0,0,0,1,0,0.905405405,0.094594595,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,40,0,0,0,0.846153846,0.153846154,0.959183673,0.040816327,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,41,0,0,0,1,0,0.914473684,0.085526316,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,42,0,0,0,1,0,0.953947368,0.046052632,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,43,0,0,0,0.8125,0.1875,0.967532468,0.032467532,1,0,Normal,IT attacks,False Alarm,False Alarm,False Alarm
+32,44,0,0,0,1,0,0.960526316,0.039473684,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,45,0,0,0,1,0,0.947712418,0.052287582,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,46,0,0,0,1,0,0.941176471,0.058823529,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,47,0,0,0,1,0,0.967532468,0.032467532,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,48,0,0,0,0.866666667,0.133333333,0.903448276,0.096551724,1,0,Normal,IT attacks,False Alarm,False Alarm,False Alarm
+32,49,0,0,0,1,0,0.934640523,0.065359477,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,50,0,0,0,1,0,0.935483871,0.064516129,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,51,0,0,0,1,0,0.881578947,0.118421053,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,52,0,0,0,1,0,0.961038961,0.038961039,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,53,0,0,0,1,0,0.954545455,0.045454545,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,54,0,0,0,1,0,0.947712418,0.052287582,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,55,0,0,0,1,0,0.935064935,0.064935065,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,56,0,0,0,0.9375,0.0625,0.922580645,0.077419355,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,57,0,0,0,0.928571429,0.071428571,0.927152318,0.072847682,1,0,Normal,IT attacks,False Alarm,False Alarm,False Alarm
+32,58,0,0,0,1,0,0.935064935,0.064935065,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified
+32,59,0,0,0,1,0,0.933333333,0.066666667,1,0,Normal,Normal,Anomaly Detected,Anomaly Classified,Normal Classified

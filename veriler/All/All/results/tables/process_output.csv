@@ -1,0 +1,4 @@
+Detection,Actual,Prediction,Actual After Grouping,Prediction After Grouping
+Normal,880,959,87,92
+Attack,320,241,33,28
+Total,1200,1200,120,120
